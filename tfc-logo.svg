@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 700" role="img" aria-label="Temni Football Club crest">
+<defs><linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffc917"/><stop offset="1" stop-color="#e3a500"/></linearGradient></defs>
+<path d="M44 32h432v470c0 91-72 135-216 204C116 637 44 593 44 502z" fill="url(#g)" stroke="#07122d" stroke-width="15"/>
+<path d="M56 492h408v21c0 76-63 115-204 180C119 628 56 589 56 513z" fill="#07122d"/>
+<rect x="74" y="54" width="372" height="132" fill="none" stroke="#5b89c4" stroke-width="7"/>
+<text x="260" y="161" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="112" letter-spacing="22" fill="#000">TFC</text>
+<g transform="translate(260 308)">
+<path d="M-120 5c-58-34-63-91-4-109-12 29 4 48 38 59-49-2-70 15-73 43 41-31 73-22 104 2z" fill="#000"/>
+<path d="M120 5c58-34 63-91 4-109 12 29-4 48-38 59 49-2 70 15 73 43-41-31-73-22-104 2z" fill="#000"/>
+<circle r="86" fill="#fff" stroke="#000" stroke-width="7"/>
+<polygon points="0,-36 34,-11 21,31 -21,31 -34,-11" fill="#111"/>
+<g fill="#111"><polygon points="0,-83 26,-62 15,-39 -15,-39 -26,-62"/><polygon points="72,-39 82,-9 55,4 37,-19 49,-43"/><polygon points="58,53 31,75 9,54 22,31 48,28"/><polygon points="-58,53 -31,75 -9,54 -22,31 -48,28"/><polygon points="-72,-39 -82,-9 -55,4 -37,-19 -49,-43"/></g>
+<g fill="none" stroke="#111" stroke-width="5"><path d="M0-36 0-82M34-11l38-28M21 31l37 22M-21 31l-37 22M-34-11l-38-28"/></g>
+</g>
+<g fill="#f7d248" font-family="serif" font-size="28" text-anchor="middle"><text x="188" y="420">★</text><text x="236" y="429">★</text><text x="284" y="429">★</text><text x="332" y="420">★</text></g>
+<rect x="61" y="438" width="398" height="82" rx="3" fill="#5b89c4"/>
+<text x="260" y="497" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="58" fill="#fff">TEMNI</text>
+<text x="260" y="596" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="58" fill="#fff">ESTD 2020</text>
+</svg>
